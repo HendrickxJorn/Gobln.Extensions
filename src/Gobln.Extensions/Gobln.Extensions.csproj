@@ -7,7 +7,7 @@
   <PropertyGroup>
     <PackageId>Gobln.Extensions</PackageId>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageTags></PackageTags>
+    <PackageTags>Extensions</PackageTags>
     <PackageProjectUrl>https://github.com/HendrickxJorn/Gobln.Extensions</PackageProjectUrl>
     <Authors>Jorn Hendrickx</Authors>
     <Product>Gobln.Extensions</Product>
@@ -15,11 +15,11 @@
     <RootNamespace>Gobln.Extensions</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
-    <Description></Description>
+    <Description>Library containing useful extensions.</Description>
 	<RepositoryUrl>https://github.com/HendrickxJorn/Gobln.Extensions</RepositoryUrl>
 	<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
 	<ApplicationIcon></ApplicationIcon>
-	<PackageIconUrl>https://github.com/HendrickxJorn/Gobln.Extensions/blob/master/images/Gobln%20OrderBy.ico?raw=true</PackageIconUrl>
+	<PackageIconUrl>https://github.com/HendrickxJorn/Gobln.Extensions/blob/master/images/Gobln%20Extensions.ico?raw=true</PackageIconUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(TargetFramework)'=='netcoreapp2.0'">
